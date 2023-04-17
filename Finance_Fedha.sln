@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance_Fedha", "Finance_Fedha\Finance_Fedha.csproj", "{DB5A37A8-B10B-4D95-9BAA-CA6F179F4E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5A37A8-B10B-4D95-9BAA-CA6F179F4E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5A37A8-B10B-4D95-9BAA-CA6F179F4E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5A37A8-B10B-4D95-9BAA-CA6F179F4E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5A37A8-B10B-4D95-9BAA-CA6F179F4E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28428A51-EDEF-46BA-9B6F-9EC509CC0C55}
+	EndGlobalSection
+EndGlobal
